@@ -6,7 +6,7 @@
 3. - [ ] [Xwiki](https://www.xwiki.org/) | [GSOC](https://summerofcode.withgoogle.com/archive/2022/organizations/xwiki)
 4. - [x] [Electron](https://electronjs.org/) | [GSOC](https://summerofcode.withgoogle.com/archive/2022/organizations/electron)
 5. - [x] [Joomla](https://www.joomla.org/) | [GSOC](https://summerofcode.withgoogle.com/archive/2022/organizations/joomla)
-6. - [ ] [Joplin](https://joplinapp.org/) | [GSOC](https://summerofcode.withgoogle.com/archive/2022/organizations/joplin)
+6. - [x] [Joplin](https://joplinapp.org/) | [GSOC](https://summerofcode.withgoogle.com/archive/2022/organizations/joplin)
 7. - [ ] [Jitsi](https://jitsi.org/) | [GSOC](https://summerofcode.withgoogle.com/archive/2022/organizations/jitsi)
 8. - [ ] [Matrix.org](https://matrix.org/) | [GSOC](https://summerofcode.withgoogle.com/archive/2022/organizations/matrixorg)
 9. - [ ] [Purr Data](https://www.purrdata.net/) | [GSOC](https://summerofcode.withgoogle.com/archive/2022/organizations/purr-data)
